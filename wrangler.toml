@@ -1,8 +1,8 @@
-name = "handsome-syq"
+name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
 [[d1_databases]]
-binding = "DB"
+binding = "NEWSNOW_DB"
 database_name = "newsnow-db"
 database_id = "27da6faf-05dd-4df9-aed8-7495a263fe55"
